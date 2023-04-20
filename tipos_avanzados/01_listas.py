@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numeros = [1, 2, 3]
 letras = ['a', 'b', 'c']
 palabras = ['Luis Alberto', 'Octavio', 'Rodrigo', 'Pepe']
@@ -22,3 +23,6 @@ print('Lista creada a partir de list(), usando range:', rango)
 # Creacion de una lista a partir de un String iterable
 chars = list("Hola mundo")
 print(chars)
+=======
+numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+>>>>>>> 7fecdfe9a4f392fb8d1ddf4b83615b7cae85bd20
